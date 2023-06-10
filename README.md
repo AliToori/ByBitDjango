@@ -1,4 +1,4 @@
-# Python: Getting Started
+Just a simple ByBit Buy/Sell Trading Bot based on Python Django
 
 A barebones Django app, which can easily be deployed to Heroku.
 
